@@ -15,7 +15,7 @@ html, body {
 
 .homeButton {
     position: absolute;
-    bottom: 900px;
+    bottom: 870px;
     left: -2px;
 
     border: 2px solid transparent;
@@ -31,7 +31,7 @@ html, body {
 
 .productsButton {
     position: absolute;
-    bottom: 910px;
+    bottom: 870px;
     left: 123px;
 
     border: 2px solid transparent;
