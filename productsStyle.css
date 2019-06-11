@@ -1,0 +1,82 @@
+html, body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    background-color: #ffffff;
+    
+}
+
+.head {
+
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 1903px;
+}
+
+.homeButton {
+    position: absolute;
+    bottom: 910px;
+    left: -2px;
+
+    border: 2px solid transparent;
+    background: none;
+    padding: 10px 20px;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: "Nunito";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+
+.productsButton {
+    position: absolute;
+    bottom: 910px;
+    left: 123px;
+
+    border: 2px solid transparent;
+    background: none;
+    padding: 10px 20px;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: "Nunito";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+
+.productIcon {
+    height: 70%;
+
+    position: absolute;
+    bottom: -200px;
+}
+
+.jesus {
+    bottom: 1080px;
+    color: transparent;
+    opacity: 0;
+}
+
+.downloadPXButton {
+    position: absolute;
+    bottom: 526px;
+    right: 1545px;
+
+    border-radius: 8px;
+    height: -21px;
+    border: 2px solid #4B0FA8;
+    background: #4B0FA8;
+    padding: 10px 11px;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Nunito";
+    cursor: pointer;
+    margin: 10px;
+    
+}
+
+.test {
+    position: absolute;
+    bottom: 2932px;
+}

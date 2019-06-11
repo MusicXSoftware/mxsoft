@@ -1,0 +1,104 @@
+html, body {
+
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    background-color: #ffffff;
+    
+}
+
+
+.head {
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    color: #ffffff;
+}
+
+.Separator {
+    position: absolute;
+    left: 700px;
+    top: 25px;
+}
+
+.walkin {
+
+    position: absolute;
+    left: 610px;
+    top: 500px;
+    color: #ffffff;
+}
+
+.iconUp {
+
+    position: absolute;
+    left: -70px;
+    top: -50px;
+    margin: 200px;
+}
+
+.container {
+    background-color: #4B0FA8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 767px;
+    width: 1903px;
+}
+
+.header {
+    background-repeat: no-repeat;
+    z-index: 100;
+    image-resolution: 101;
+    border: none;
+    outline: none;
+    height: 100%;
+    width: 100%;
+}
+
+.Software {
+    position: absolute;
+    left: 408px;
+    bottom: -424px;
+
+}
+
+.Waw {
+    position: absolute;
+    left: 920px;
+    bottom: -424px;
+}
+
+.productsButton {
+
+    position: absolute;
+    bottom: -650px;
+    right: 750px;
+
+    border: 2px solid #4B0FA8;
+    background: none;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-family: "Nunito";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+
+
+
+
+.downBanner {
+    position: absolute;
+    bottom: -1000px;
+}
+
+
+.CopyRight {
+
+    position: absolute;
+    left: 610px;
+    bottom: -980px;
+
+    font-size: 30px;
+    color: #ffffff;
+}
